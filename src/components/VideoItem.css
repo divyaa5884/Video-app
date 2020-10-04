@@ -1,0 +1,20 @@
+.video-item.item {
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+
+.video-item.item img{
+	max-width: 200px;
+}
+
+.video-list {
+    width: 36%;
+    float: right;
+    margin-top: 0px !important;
+}
+
+.video-player {
+	width: 60%;
+	display: inline-block;
+}
